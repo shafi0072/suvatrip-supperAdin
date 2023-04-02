@@ -1,0 +1,1 @@
+export const baseUrl = 'https://suva-trip-back-end.vercel.app'
